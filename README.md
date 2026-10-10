@@ -32,7 +32,7 @@ my open-source palette tool.
 
 <br>
 
-**Breadcrumb #4.** You crossed the console, outran the clock, and read the logbook.
+✨ **Breadcrumb #4.** You crossed the console, outran the clock, and read the logbook.
 Now return to port: [kyut0.github.io](https://kyut0.github.io).
 
 Where the gold lies, ❌ marks the spot, so mark it three times.
