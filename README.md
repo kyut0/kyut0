@@ -5,7 +5,7 @@
 carbon reductions and removals, and I like treating everything else as a data pipeline
 too.
 
-[kyut0.github.io](https://kyut0.github.io) · [LinkedIn](https://www.linkedin.com/in/katherine-yut/) · [The Examined Life](https://blog.the-examined-life.com/)
+[katy-yut.com](https://katy-yut.com) · [LinkedIn](https://www.linkedin.com/in/katherine-yut/) · [The Examined Life](https://blog.the-examined-life.com/)
 
 ---
 
@@ -33,7 +33,7 @@ my open-source palette tool.
 <br>
 
 ✨ **Breadcrumb #4.** You crossed the console, outran the clock, and read the logbook.
-Now return to port: [kyut0.github.io](https://kyut0.github.io).
+Now return to port: [katy-yut.com](https://katy-yut.com).
 
 Where the gold lies, ❌ marks the spot, so mark it three times.
 No box to type in. Just type.
